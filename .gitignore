@@ -1,0 +1,11 @@
+# keys and sh.. stuff
+
+config/
+
+# Local tests, jupyter 
+
+local/
+
+# .venv
+
+.venv/
