@@ -1,2 +1,3 @@
 # ci-agent
-Competitive Intelligence agent for intelligence gathering 
+LLM Agent for intelligence gathering, used primarly in competitor analysis
+
