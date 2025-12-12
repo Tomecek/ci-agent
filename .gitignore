@@ -2,9 +2,11 @@
 
 config/
 
-# Local tests, jupyter 
+# Local tests, jupyter and DP
 
+docs_dp/
 local/
+test/
 
 # .venv
 
