@@ -4,4 +4,12 @@
     or idk how I will orchestrate this tbh
 """
 
+from openai import OpenAI
+
+print("Hello, World!")
+
+try:
+    client = OpenAI()
+except Exception as e:
+    print(f"Error initializing OpenAI client: {e}")
 
