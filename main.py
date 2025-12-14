@@ -7,6 +7,7 @@
 from openai import OpenAI
 
 print("Hello, World!")
+print("Things")
 
 try:
     client = OpenAI()
